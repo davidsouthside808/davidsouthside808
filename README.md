@@ -50,7 +50,7 @@
 - 🧪 [Packet Tracer Topology for SOC](https://github.com/yourusername/soc-network-diagram)  
   *Simulated network topology for training and detection*
 
-- 🎧 [Foley FX Library](https://github.com/yourusername/foley-fx-library)  
+- 🎧 [Re-sonorization for clips and movies](https://github.com/yourusername/foley-fx-library)  
   *Handcrafted sound design assets for use in film, games & forensic analysis*
 
 ---
@@ -66,8 +66,8 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/andresdavidcruz/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrescybersec11@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourhandle)  
 
 ---
