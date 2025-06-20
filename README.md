@@ -45,7 +45,7 @@
 
 ### 📂 Featured Projects
 
-- 🔓 [Debian 12 Forensic VM Hardening(Final Project)]([https://github.com/davidsouthside808/cybersecurity-final-project]](https://github.com/yourusername/debian-forensic-hardening)](https://github.com/davidsouthside808/cybersecurity-final-project.git))  
+- 🔓 [Debian 12 Forensic VM Hardening(Final Project)](https://github.com/davidsouthside808/cybersecurity-final-project.git))  
   *Secure configuration and incident recovery demo machine*
 
 - 🧪 [Packet Tracer Topology for SOC](https://github.com/yourusername/soc-network-diagram)  
