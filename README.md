@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnupg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autopsy-003366?style=for-the-badge&logo=forensic-science&logoColor=white" />
   <img src="https://img.shields.io/badge/Hydra-004C99?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-4A4A4A?style=for-the-badge&logo=metasploit&logoColor=white" />
